@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Backend developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morakinyo-joseph&label=Profile%20views&color=0e75b6&style=flat" alt="morakinyo-joseph" /> </p>
-
-
 
 - 🔭 I’m currently working on **FreeCourses**
 
@@ -30,10 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morakinyo-joseph&show_icons=true&locale=en&layout=compact" alt="morakinyo-joseph" /></p>
 
-<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=morakinyo-joseph&show_icons=true&locale=en" alt="morakinyo-joseph" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=morakinyo-joseph&show_icons=true&locale=en" alt="morakinyo-joseph" /></p>
 
-<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morakinyo-joseph&" alt="morakinyo-joseph" /></p>
