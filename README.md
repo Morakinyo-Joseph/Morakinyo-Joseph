@@ -3,10 +3,6 @@
 
 
 
-- 🔭 I’m currently working on **FreeCourses**
-
-- 🌱 I’m currently learning **RestAPIs, FastAPIs**
-
 - 💬 Ask me about **Backend development, Database management**
 
 - 📫 How to reach me **jmoraks03@gmail.com**
