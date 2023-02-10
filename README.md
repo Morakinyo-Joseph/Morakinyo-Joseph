@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moraks</h1>
-<h3 align="center">A Django Backend developer</h3>
+<h3 align="center">A Backend developer</h3>
 
 
 
