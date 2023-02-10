@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Morakinyo Joseph</h1>
+<h1 align="center">Hi 👋, I'm Moraks</h1>
 <h3 align="center">A Django Backend developer</h3>
 
 
