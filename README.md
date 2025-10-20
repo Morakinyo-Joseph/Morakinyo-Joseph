@@ -3,9 +3,9 @@
 
 
 
-- 💬 Ask me about **Backend development, Database management**
+- Software Engineer
 
-- 📫 How to reach me **jmoraks03@gmail.com**
+- How to reach me **joseph.morakinyo.devgmail.com**
 
 <hr>
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/joseph morakinyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph morakinyo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/joseph morakinyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="joseph morakinyo" height="30" width="40" /></a>
-<a href="https://instagram.com/m.o.r.a.k.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.o.r.a.k.s" height="30" width="40" /></a>
+<a href="https://instagram.com/m.o.r.a.k.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moraks._" height="30" width="40" /></a>
 </p>
 
 <hr>
