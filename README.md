@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moraks</h1>
-<h3 align="center">A Backend developer</h3>
+<h3 align="center">Software Engineer</h3>
 
-
-
-- Software Engineer
-
-- How to reach me **joseph.morakinyo.devgmail.com**
+**joseph.morakinyo.dev@gmail.com**
 
 <hr>
 
@@ -13,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/joseph morakinyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph morakinyo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/joseph morakinyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="joseph morakinyo" height="30" width="40" /></a>
-<a href="https://instagram.com/m.o.r.a.k.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moraks._" height="30" width="40" /></a>
+<a href="https://instagram.com/moraks._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moraks._" height="30" width="40" /></a>
 </p>
 
 <hr>
